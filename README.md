@@ -12,3 +12,10 @@
 
 
 
+
+
+![Screenshot from 2023-11-30 02-03-35](https://github.com/ainur2023hse/ml_homework/assets/148802637/656e2b7f-fe8e-4761-b889-9449c7838491)
+
+
+
+![Screenshot from 2023-11-30 02-04-40](https://github.com/ainur2023hse/ml_homework/assets/148802637/20f489c5-de3e-4a35-bb3b-06efdcc2ddc0)
